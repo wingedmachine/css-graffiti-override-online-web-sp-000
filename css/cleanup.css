@@ -1,11 +1,11 @@
-div.tag-1 {
+.tag-1 {
   display: none;
 }
 
-div#tag-2 {
+#tag-2 {
   display: none;
 }
 
-div#tag-3, div#tag-4, div#tag-5, div#tag-6, div#tag-7 {
+#tag-3, #tag-4, #tag-5, #tag-6, #tag-7 {
   display: none;
 }
